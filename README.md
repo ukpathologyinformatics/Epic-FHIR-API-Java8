@@ -23,7 +23,7 @@ Once the Maven project has compiled and been installed to your local repository,
     <dependency>
         <groupId>edu.uky.pml.epic</groupId>
         <artifactId>fhir-api</artifactId>
-        <version>0.1-11</version>
+        <version>0.1-8</version>
     </dependency>
     ...
 </dependencies>
